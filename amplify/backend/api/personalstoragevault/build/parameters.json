@@ -1,0 +1,14 @@
+{
+    "AppSyncApiName": "personalstoragevault",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authpersonalstoragevault18e312b8",
+            "Outputs.UserPoolId"
+        ]
+    },
+    "AuthModeLastUpdated": "2022-04-06T05:42:08.678Z",
+    "S3DeploymentBucket": "amplify-amplifyd2fc1df6206a4-staging-34847-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/f8af14a6a813fd0316cd7828996249a70829b819"
+}

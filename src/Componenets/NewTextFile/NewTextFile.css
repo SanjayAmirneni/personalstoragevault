@@ -1,0 +1,33 @@
+body {
+    background-color: #323a47;
+  }
+  
+  .textfile__container {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .textfile__name {
+    height: 50px;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .textfile__text {
+    height: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .textfile__button {
+    height: 50px;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  

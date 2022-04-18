@@ -1,0 +1,13 @@
+/* .App {
+  text-align: center;
+} */
+
+body {
+  background-color: #323a47 !important;
+}
+
+.text__file {
+  display: flex;
+  padding: 50px;
+  gap: 30px;
+}

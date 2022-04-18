@@ -1,0 +1,19 @@
+.image__container {
+    /* background-color: white; */
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  
+  .image__input {
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .image__button {
+    height: 40px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 500;
+  }
+  

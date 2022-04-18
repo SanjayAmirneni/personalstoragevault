@@ -1,0 +1,19 @@
+.signin__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px;
+    color: white;
+    /* background-color: #323a47; */
+  }
+  
+  .header {
+    font-weight: 1000;
+  }
+  
+  body {
+    background-color: #323a47;
+  }
+  

@@ -1,0 +1,14 @@
+{
+  "resourceName": "filestorage",
+  "policyUUID": "af565d80",
+  "bucketName": "personalstoragevault52315f8d64cf45d2a1c86a9668a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

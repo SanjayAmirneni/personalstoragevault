@@ -1,0 +1,16 @@
+/* .home__links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 10px;
+  width: 20%;
+} */
+
+.button {
+    width: 200px;
+    height: 50px;
+    /* font-size: 30px; */
+    font-weight: 700;
+    border-radius: 10px;
+  }
+  

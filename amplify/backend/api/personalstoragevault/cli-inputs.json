@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "personalstoragevault",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "F:\\ccprjct\\personalstoragevault\\amplify\\backend\\api\\personalstoragevault\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authpersonalstoragevault18e312b8"
+    },
+    "additionalAuthTypes": [],
+    "conflictResolution": {}
+  }
+}
