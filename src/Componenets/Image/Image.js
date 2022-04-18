@@ -43,8 +43,8 @@ function Image(){
 
       const clientProvider = getClient(KMS, {
         credentials: {
-          accessKeyId :  "AKIAT6AKAA7HUNBSNIH2" ,
-          secretAccessKey : "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"
+          accessKeyId :  "" ,
+          secretAccessKey : ""
         },
       })
 
